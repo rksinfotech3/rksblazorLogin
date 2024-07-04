@@ -1,4 +1,4 @@
-const CACHE_NAME = 'SyntodMed Version 2.0.0'; // Update this cache name with the new version
+const CACHE_NAME = 'SyntodMed Version 3.0.0'; // Update this cache name with the new version
 const urlsToCache = [
     // Add your files here
     '/',
